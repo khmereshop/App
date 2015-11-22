@@ -13,13 +13,13 @@
 
    <!-- Assume test is the database name -->
    <property name="hibernate.connection.url">
-      jdbc:mysql://localhost:3307/javaDB
+      jdbc:mysql://localhost:3306/javaDB
    </property>
    <property name="hibernate.connection.username">
-      username
+      ros
    </property>
    <property name="hibernate.connection.password">
-      password
+      ros
    </property>
    
    <property name="connection.pool_size">1</property>
